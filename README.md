@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3471485.svg)](https://doi.org/10.5281/zenodo.3471485)
+
 # Plant Physiology 2019
 
 GRANAR, a new computational tool to better understand the functional importance of root anatomy
